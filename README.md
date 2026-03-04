@@ -36,6 +36,12 @@ Three focused modules that build your foundation before you touch a real plant.
 | 🌿 Plant Categories | Explore indestructible plants, low-light lovers, pet-safe plants, and air purifiers |
 | 💧 Care Basics | Master light, the finger-test for watering, reading leaf signals, and humidity |
 
+<img src="Screenshots/homepage.jpeg" width="200"/>
+<img src="Screenshots/Plant_clinic.jpeg" width="200"/>
+<img src="Screenshots/Plant_categories.jpeg" width="200"/>
+<img src="Screenshots/Indestructibles.jpeg" width="200"/>
+<img src="Screenshots/Plant_parenting.jpeg" width="200"/>
+
 ---
 
 ### 🎮 Simulate Tab
@@ -53,6 +59,10 @@ The simulation is scripted so specific things go wrong at specific moments — n
 | 12 | Full maturity 🌸 | The reward for patient, steady care |
 
 If the plant dies before day 12, a death screen tells you exactly what went wrong — because failure should teach you something too.
+
+<img src="Screenshots/fullygrownplant.jpeg" width="200"/>
+<img src="Screenshots/fully_growncard.jpeg" width="200"/>
+<img src="Screenshots/plant_died.jpeg" width="200"/>
 
 ---
 
