@@ -56,7 +56,7 @@ The simulation is scripted so specific things go wrong at specific moments — n
 
 If the plant dies before day 12, a death screen tells you exactly what went wrong — because failure should teach you something too.
 
-<img src="Screenshots/fullygrownplant.jpeg" width="200"/> <img src="Screenshots/fully_growncard.jpeg" width="200"/> <img src="Screenshots/plant_died.jpeg" width="200"/>
+<img src="Screenshots/simulation.jpeg" width="200"/> <img src="Screenshots/fully_growncard.jpeg" width="200"/> <img src="Screenshots/plant_died.jpeg" width="200"/>
 
 ---
 
